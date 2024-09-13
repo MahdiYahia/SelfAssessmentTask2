@@ -1,0 +1,2 @@
+id = 1, Make = BMW, Model = 3 Series, Year of Manufacture = 2024, Color = grey, Price = 45000.0, Registration Number = 127846
+id = 2, Make = BMW, Model = X5, Year of Manufacture = 2020, Color = grey, Price = 65000.0, Registration Number = 128930

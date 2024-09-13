@@ -1,0 +1,1 @@
+id = 2, Make = BMW, Model = X5, Year of Manufacture = 2020, Color = grey, Price = 65000.0, Registration Number = 128930

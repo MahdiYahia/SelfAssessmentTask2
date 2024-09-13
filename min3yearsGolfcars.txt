@@ -1,0 +1,1 @@
+id = 5, Make = Volkswagen, Model = Golf, Year of Manufacture = 2021, Color = green, Price = 26000.0, Registration Number = 256376
